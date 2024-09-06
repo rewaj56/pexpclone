@@ -12,7 +12,7 @@ Bootstrap 5, HTML, CSS
 
 
 ## Demo
-https://rewaj56.github.io/pexp-clone/
+https://pexpclone.vercel.app/
 
 
 ## Badges
