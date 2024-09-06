@@ -4,7 +4,7 @@ This is a GitHub repository for a project built using Bootstrap 5. The project i
 
 
 ## Screenshots
-![App Screenshot](https://raw.githubusercontent.com/rewaj56/rewaj56.github.io/main/pexp-clone/screenshot/screenshot1.png)
+![App Screenshot](https://raw.githubusercontent.com/rewaj56/pexpclone/main/screenshot/screenshot1.png)
 
 
 ## Technologies used: 
